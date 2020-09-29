@@ -3,10 +3,12 @@ Custom ip pinger smoking themed.
 It is rainbow for colors.
 Enjoy!
 
+
 INSTALATION:
 
 Download the file and drag it to your desktop
 Open it and there you go.
+
 
 USAGE:
 
