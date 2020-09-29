@@ -44,7 +44,7 @@ echo                        ""Y888888888888888888888P""
 echo 000000000000000000000000000000 Made By Mup 000000000000000000000000000000
 echo 0000000000000000000000000000000000000000000000000000000000000000000000000 
 echo 
-echo               .M"""bgd          By Mup         `7MM              
+echo               .M"""bgd                         `7MM              
 echo              ,MI    "Y                           MM              
 echo              `MMb.    `7MMpMMMb.pMMMb.  ,pW"Wq.  MM  ,MP'.gP"Ya  
 echo                `YMMNq.  MM    MM    MM 6W'   `Wb MM ;Y  ,M'   Yb 
