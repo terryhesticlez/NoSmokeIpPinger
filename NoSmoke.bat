@@ -1,11 +1,10 @@
 @echo off
 color 6
-
 title NOSMOKING
-
+mode 75,49
 :greeting
 cls
-echo 
+echo. 
 echo                           .,aad88888888888baa,.
 echo                      ,ad8888888888888888888888888ba,.
 echo                  ,ad888888888888888888888888888888888ba,
@@ -43,7 +42,7 @@ echo                    "Y8888888888888888888888888888888""
 echo                        ""Y888888888888888888888P""       
 echo 000000000000000000000000000000 Made By Mup 000000000000000000000000000000
 echo 0000000000000000000000000000000000000000000000000000000000000000000000000 
-echo 
+echo. 
 echo               .M"""bgd                         `7MM              
 echo              ,MI    "Y                           MM              
 echo              `MMb.    `7MMpMMMb.pMMMb.  ,pW"Wq.  MM  ,MP'.gP"Ya  
